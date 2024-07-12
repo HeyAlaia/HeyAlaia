@@ -3,11 +3,10 @@
   <img src="https://stats.justsong.cn/api/github?username=HeyAlaia" alt="Alaia GitHub digital" width="49%" />
   <img src="https://stats.justsong.cn/api/leetcode/?username=focus-37&theme=light" alt="Alaia GitHub stats" width="49%" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeyAlaia&show_icons=true&theme=transparent" alt="Alaia GitHub stats" width="49%" />
-  <img src="https://stats.justsong.cn/api/csdn?id=weixin_42842069" alt="Alaia CSDN" width="49%" />
-</p>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ### A little more about me...  
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+
+### A little more about me...  
 
 ```javascript
 const Alaia = {
@@ -22,7 +21,6 @@ const Alaia = {
         databases: ["MySql", "Doris", "Oracle"]
     },
     architecture: ["Distributed application", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    blog: ["https://alaiablog.pages.dev/"]
 };
 ```
