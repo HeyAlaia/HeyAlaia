@@ -16,7 +16,7 @@ const Alaia = {
     technologies: {
         backEnd: {
             java: ["Springboot", "Netty", "Flink"],
-        }
+        },
         devOps: ["Docker🐳", "Kubuntu", "Nginx"],
         databases: ["MySql", "Doris", "Oracle"]
     },
