@@ -1,11 +1,12 @@
 # Hey there :wave:
 <p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeyAlaia&show_icons=true&theme=transparent)
+  <img src="https://stats.justsong.cn/api/github?username=HeyAlaia" alt="Alaia GitHub digital" width="49%" />
+  <img src="https://stats.justsong.cn/api/leetcode/?username=Alaia&theme=light" alt="Alaia GitHub stats" width="49%" />
 </p>
-<p align="center"> 
-  ![Alaia Leetcode](https://stats.justsong.cn/api/leetcode?username=Alaia&cn=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HeyAlaia&show_icons=true&theme=transparent" alt="Alaia GitHub stats" width="49%" />
+  <img src="https://stats.justsong.cn/api/csdn?id=Alaia." alt="Alaia CSDN" width="49%" />
 </p>
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
