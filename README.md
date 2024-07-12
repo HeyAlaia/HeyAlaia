@@ -1,12 +1,27 @@
 # Hey there :wave:
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="hello world">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeyAlaia&show_icons=true&theme=transparent)
 </p>
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  ![Alaia Leetcode](https://stats.justsong.cn/api/leetcode?username=Alaia&cn=true)
 </p>
 
-## About me
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-Hi there 👋. I’m Alaia, a skilled Software Developer.
+```javascript
+const Alaia = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Rust", "Java", "Go"],
+    askMeAbout: ["web dev", "bigdata dev"],
+    technologies: {
+        backEnd: {
+            java: ["Springboot", "Netty", "Flink"],
+        }
+        devOps: ["Docker🐳", "Kubuntu", "Nginx"],
+        databases: ["MySql", "Doris", "Oracle"]
+    },
+    architecture: ["Distributed application", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
