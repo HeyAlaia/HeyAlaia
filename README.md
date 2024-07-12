@@ -1,7 +1,7 @@
 # Hey there :wave:
 <p align="center">
-  <img src="https://stats.justsong.cn/api/github?username=HeyAlaia" alt="Alaia GitHub digital" width="49%" />
-  <img src="https://stats.justsong.cn/api/leetcode/?username=focus-37&theme=light" alt="Alaia GitHub stats" width="49%" />
+  <img src="https://stats.justsong.cn/api/github?username=HeyAlaia&theme=light" alt="Alaia GitHub digital" width="49%" />
+  <img src="https://stats.justsong.cn/api/leetcode/?username=focus-37&cn=true&theme=light" alt="Alaia GitHub stats" width="49%" />
 </p>
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
