@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/HeyAlaia/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://raw.githubusercontent.com/HeyAlaia/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 # A little more about me...  
 
 ```javascript
