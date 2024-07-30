@@ -2,7 +2,7 @@
 
 <div align=center>
     <img src="https://raw.githubusercontent.com/HeyAlaia/github-stats/master/generated/overview.svg#gh-light-mode-only" /><img src="https://raw.githubusercontent.com/HeyAlaia/github-stats/master/generated/languages.svg#gh-light-mode-only" />
-    <img src="https://raw.githubusercontent.com/HeyAlaia/HeyAlaia/output/github-contribution-grid-snake.svg />
+    <img src="https://raw.githubusercontent.com/HeyAlaia/HeyAlaia/output/github-contribution-grid-snake.svg" />
 </div>
 
 # A little more about me...  
