@@ -1,12 +1,4 @@
-# Hey there :wave:
-<p align="center">
-  <img align="left" src="https://raw.githubusercontent.com/HeyAlaia/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
-  <img src="https://raw.githubusercontent.com/HeyAlaia/github-stats/master/generated/languages.svg#gh-light-mode-only" /> 
-</p>
-
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-
-### A little more about me...  
+# A little more about me...  
 
 ```javascript
 const Alaia = {
@@ -16,8 +8,9 @@ const Alaia = {
     technologies: {
         backEnd: {
             java: ["Springboot", "Netty", "Flink"],
+            go: ["Gin"]
         },
-        devOps: ["Docker🐳", "Kubuntu", "Nginx"],
+        devOps: ["Docker🐳", "Kubernetes", "Nginx"],
         databases: ["MySql", "Doris", "Oracle"]
     },
     architecture: ["Distributed application", "Single page applications"],
