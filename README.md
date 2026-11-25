@@ -26,16 +26,6 @@ const Alaia = {
 ```
 
 ```
-hi, 如果你能看懂这一段, 那么祝你今天开心, 明天也是 :)
+hi, 祝你今天开心, 明天也是 :)
 ```
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=HeyAlaia)](https://github.com/stats-organization/github-stats-extended)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark_github_repocard"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=light_github_repocard" alt="Readme Card" />
-    </picture>
-  </a>
