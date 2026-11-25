@@ -26,6 +26,6 @@ const Alaia = {
 ```
 
 ```
-hi, 祝你今天开心, 明天也是 :)
+hi, 希望你今天开心, 明天也是 :)
 ```
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&custom_title=HeyAlaia%20status&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=HeyAlaia&rank_icon=github&custom_title=HeyAlaia%20status&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=radical)
