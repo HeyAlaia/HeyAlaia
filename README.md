@@ -14,7 +14,7 @@ const Alaia = {
     askMeAbout: ["web dev", "bigdata dev", "distributed dev"],
     technologies: {
         backEnd: {
-            java: ["Springboot", "Netty", "Flink"],
+            java: ["SpringBoot", "Netty", "Flink"],
             go: ["Gin"]
         },
         devOps: ["Docker🐳", "Kubernetes", "Nginx"],
@@ -24,3 +24,8 @@ const Alaia = {
     blog: ["https://alaiablog.pages.dev/"]
 };
 ```
+
+```
+hi, 如果你能看懂这一段, 那么祝你今天开心, 明天也是 :)
+```
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=HeyAlaia)](https://github.com/stats-organization/github-stats-extended)
